@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.todo-container {
+    background-color: white;
+    max-width: 750px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+}
+
+.completed {
+    text-decoration: line-through;
+}
